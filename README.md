@@ -6,8 +6,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-## About my project
-##Laravel CRUD Application with Authentication
+<h2>About my project</h2>
+<h4>Laravel CRUD Application with Authentication</h4>
+<p>This is a simple CRUD (Create, Read, Update, Delete) application built with Laravel. The application includes user authentication (registration, login, and logout) along with form validation. It allows users to register, login, and access the index page where they can perform CRUD operations.</p>
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
