@@ -9,6 +9,18 @@
 <h2>About my project</h2>
 <h4>Laravel CRUD Application with Authentication</h4>
 <p>This is a simple CRUD (Create, Read, Update, Delete) application built with Laravel. The application includes user authentication (registration, login, and logout) along with form validation. It allows users to register, login, and access the index page where they can perform CRUD operations.</p>
+<h3>Features</h3>
+<ul>
+<li>User Authentication: Users can register, log in, and log out.</li>
+<li>CRUD Operations: Create, read, update, and delete data.</li>
+<li>Form Validation: All forms are validated for correct input.</li>
+<li>User-specific access: Only logged-in users can access the CRUD operations.</li>
+</ul>
+<h3>Requirements</h3>
+<li>PHP >= 7.4</li>
+<li>Composer</li>
+<li>Laravel >= 8</li>
+<li>MySQL or SQLite (Database)</li>
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
